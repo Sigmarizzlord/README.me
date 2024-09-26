@@ -7,7 +7,7 @@
      
   <h2>How to Swing<h2>
    <a href="#contact"><img src="https://cdn2.picryl.com/photo/2013/05/08/the-air-force-mens-volleyball-team-looks-on-as-senior-f8689f-1024.jpg"></a>
-    <p><a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" target="_blank">NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you’ve never been. Luckily, I’m here to give you an insider’s guide and make your first show a pleasurable experience. By taking my tips and tricks, and following your gut, you’ll have an unforgettable experience!</p>
+    <p><a href="https://en.wikipedia.org/wiki/Volleyball#Strategy" target="_blank">Swing and positions</a> : To swing, pull your arm back and keep your non dominant arm up. Engage your back and then move your elbow in a circular way with your shoulder and swing your <strong>Non dominant</strong> arm down and then follow up by swinging your dominant arm down and ending with your dominant arm beside you body. Do not swing across to avoid injury</p>
      <h2>Getting Tickets & Picking the Shows</h2>
      <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-two.jpeg">
      <p>If you’re lucky or connected you can get an invite, sans the price tag. But I wasn’t so lucky or connected my first 2 years so I’m here to help you out. First, plan out which shows are most important to you and make a schedule and this is a biggie: SET A BUDGET. If you’re worrying about blowing your cash the whole time you won’t have fun. Then check out prices, days, and times and prioritize the designers you want to see most. Lastly, purchase your tickets and get excited!</p>
