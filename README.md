@@ -15,17 +15,8 @@
      <p> have your legs in defensive position, knees slightly bent and if in front row, hands in a setting position and in back row, arms ready to come together and recieve. Legs should be a little over shouler width apart and depending on positioning, either left or right leg will go slightly in front.</p>
      <h2>How to set</h2>
      <a href="<a href=" https://www.wikihow.com/Set-a-Volleyball" target="_blank"> Setting </a> 
-     <p></p>
-     <h4>Related Content</h4>
-       <ul>
-         <li>How to Style Boyfriend Jeans</li>
-         <li>When Print Is Too Much</li>
-         <li>The Overalls Trend</li>
-         <li>Fall's It Color: Blush</li>
-       </ul>
-       <div id='contact'>
-         <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
-       </div>
+     <p>Put your hands above your head like you are eating a burger and then catch ball with you pointer fingers and thumbs. Do not bend your wrist and instead push forward with your body to release the ball.</p>
+     
    </body>
  </head>
 </html>
